@@ -1,2 +1,0 @@
-# test
-setting up GIT 
